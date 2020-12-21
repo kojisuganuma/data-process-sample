@@ -1,16 +1,11 @@
 [tool.poetry]
-name = "pipeline"
+name = "pandas-data-viz"
 version = "0.1.0"
 description = ""
 authors = ["kojisuganuma <dcm.x.nx@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyter = "^1.0.0"
-scikit-learn = "^0.23.2"
-pandas = "^1.1.5"
-papermill = "^2.2.2"
-pandas-profiling = "^2.9.0"
 
 [tool.poetry.dev-dependencies]
 
